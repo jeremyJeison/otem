@@ -8,8 +8,9 @@ body{
   border-radius: 15px;
 }
 .Kuba{
-  display: block;
+  display: inline-block;
   background-color: chocolate;
   width: 500px;
   height: 500px;
+  margin: 0 auto;
 }
