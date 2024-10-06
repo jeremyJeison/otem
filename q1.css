@@ -7,3 +7,9 @@ body{
   display: block;
   border-radius: 15px;
 }
+.Kuba{
+  display: block;
+  background-color: chocolate;
+  width: 500px;
+  height: 500px;
+}
