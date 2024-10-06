@@ -2,3 +2,8 @@ body{
   box-sizing: border-box;
   background-color: aquamarine;
 }
+.Co{
+  background-color: rgb(42, 119, 119);
+  display: block;
+  border-radius: 15px;
+}
