@@ -14,3 +14,8 @@ body{
   height: 500px;
   margin: 0 auto;
 }
+.madskr{
+  display: block;
+  background-color: coral;
+  margin-top: 50px;
+}
