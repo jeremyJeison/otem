@@ -17,7 +17,7 @@ body{
 }
 .madskr{
   display: block;
-  background-color: coral;
+  background-color: rgb(173, 80, 255);
   margin-top: 50px;
   border-radius: 5px;
   margin: 0 auto;
